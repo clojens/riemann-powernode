@@ -7,3 +7,12 @@
 [submodule "upstream/ultra-repl"]
 	path = upstream/ultra-repl
 	url = https://github.com/Benvie/Node.js-Ultra-REPL
+[submodule "upstream/riemann-grid"]
+	path = upstream/riemann-grid
+	url = https://github.com/exoscale/riemann-grid
+[submodule "upstream/riemann-vagrant"]
+	path = upstream/riemann-vagrant
+	url = https://github.com/garethr/riemann-vagrant.git
+[submodule "upstream/clj-client"]
+	path = upstream/clj-client
+	url = https://github.com/aphyr/riemann-clojure-client.git
