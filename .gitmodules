@@ -1,0 +1,9 @@
+[submodule "upstream/smoothie"]
+	path = upstream/smoothie
+	url = https://github.com/joewalnes/smoothie
+[submodule "upstream/tty.js"]
+	path = upstream/tty.js
+	url = https://github.com/chjj/tty.js
+[submodule "upstream/ultra-repl"]
+	path = upstream/ultra-repl
+	url = https://github.com/Benvie/Node.js-Ultra-REPL
